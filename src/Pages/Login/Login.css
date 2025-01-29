@@ -75,7 +75,7 @@
     font-weight: 500;
     cursor: pointer;
 }
-@media (max-width: 00px) {
+@media (max-width: 300px) {
     .login{
         padding: 15px 5%;
     }
